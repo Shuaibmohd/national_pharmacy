@@ -1,0 +1,9 @@
+.pharmacy-amount-section{
+    position: relative;
+}
+
+.amount-section-inner{
+    position: absolute;
+    right: 10px;
+    left: 70%;
+}
